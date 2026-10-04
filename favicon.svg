@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#07060e"/>
+  <path d="M0 0h8v2H2v6H0zM32 0v8h-2V2h-6V0zM0 32v-8h2v6h6v2zM32 32h-8v-2h6v-6h2z" fill="#5cecff"/>
+  <text x="16" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#ff3d8a">ME</text>
+</svg>
