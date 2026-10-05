@@ -143,8 +143,8 @@ html.is-ready .loader { display: none !important; }
 .status header { display: flex; justify-content: space-between; align-items: baseline; font-family: var(--hud); font-size: 0.72rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--text); }
 .live { color: var(--pink); }
 .status li { padding: 0.85rem 0; border-top: 1px solid var(--line); }
-.stat-row, .status-rank { display: flex; align-items: flex-start; gap: 1.15rem; }
-.status strong { flex: 0 0 11rem; width: 11rem; display: block; font-family: var(--hud); font-size: 1.85rem; font-weight: 700; line-height: 1; color: var(--cyan); white-space: nowrap; }
+.stat-row, .status-rank { display: flex; align-items: flex-start; gap: 0.7rem; }
+.status strong { flex: 0 0 8.7rem; width: 8.7rem; display: block; font-family: var(--hud); font-size: 1.85rem; font-weight: 700; line-height: 1; color: var(--cyan); white-space: nowrap; }
 .status b { display: block; font-family: var(--hud); font-weight: 600; font-size: 0.98rem; letter-spacing: 0.02em; color: var(--text); }
 .status li span, .status-rank span { display: block; margin-top: 0.2rem; color: #d5d0e6; font-size: 0.84rem; line-height: 1.35; }
 .compare { display: grid; grid-template-columns: 3.4rem 1fr; gap: 0.28rem 0.55rem; align-items: center; margin-top: 0.55rem; }
